@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/jQuery-Bootstrap_test",
+  "homepage": "https://illiaklason.github.io/jQuery-Bootstrap_test",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /jQuery-Bootstrap_test/"
@@ -13,9 +13,6 @@
   },
   "keywords": [],
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
-  },
   "dependencies": {
     "modern-normalize": "^1.1.0"
   },
